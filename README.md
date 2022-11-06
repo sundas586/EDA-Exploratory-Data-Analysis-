@@ -31,6 +31,15 @@ scatter plots with multiple layers, maybe want to differentiate it by color? We 
 ![a](https://user-images.githubusercontent.com/33677647/200147784-d7dcc520-8381-43dd-ab70-6665d0e55955.PNG)
 ![b](https://user-images.githubusercontent.com/33677647/200147788-870025a1-d6d5-474f-be8d-f43bb1856e3f.PNG)
 
+plt.subplots to have separated fig and ax
+"fig" here is going to show all of the major basics around our plot 
+"ax" isgoing to be the actual box itself where we're putting in our plots
+
+![a](https://user-images.githubusercontent.com/33677647/200148582-859bf778-2ada-43fd-8d4f-be56bdc1a412.PNG)
+
+
+
+
 
 
 
