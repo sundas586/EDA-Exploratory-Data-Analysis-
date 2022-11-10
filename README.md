@@ -1,8 +1,14 @@
 # EDA
 
+[Ste by step EDA process](https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis)
+
 <i>Exploratory Data Analysis (EDA) is the crucial process of using summary statistics and graphical representations to perform preliminary investigations on data to uncover patterns, detect anomalies, test hypotheses, and verify assumptions..</i>
 
 we will learn some interesting and useful data exploration techniques that can be applied to explore any geographical data.</u>
+
+## Data Wrangling :
+
+Data wrangling is the process of removing errors and combining complex data sets to make them more accessible and easier to analyze. Due to the rapid expansion of the amount of data and data sources available today, storing and organizing large quantities of data for analysis is becoming increasingly necessary.
 
 EDA is going to be the approach to analyzing data sets to summarize their main characteristics, often with visual methods. 
 
