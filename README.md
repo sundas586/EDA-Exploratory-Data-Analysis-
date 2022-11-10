@@ -1,4 +1,4 @@
-# EDA-Exploratory-Data-Analysis
+# EDA
 
 EDA is going to be the approach to analyzing data sets to summarize their main characteristics, often with visual methods. 
 
