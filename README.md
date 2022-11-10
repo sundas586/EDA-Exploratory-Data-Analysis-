@@ -1,5 +1,9 @@
 # EDA
 
+<i>Exploratory Data Analysis (EDA) is the crucial process of using summary statistics and graphical representations to perform preliminary investigations on data to uncover patterns, detect anomalies, test hypotheses, and verify assumptions..</i>
+
+we will learn some interesting and useful data exploration techniques that can be applied to explore any geographical data.</u>
+
 EDA is going to be the approach to analyzing data sets to summarize their main characteristics, often with visual methods. 
 
 ![a](https://user-images.githubusercontent.com/33677647/200143834-50c93d89-223b-49b2-93ad-0332062419d7.PNG)
