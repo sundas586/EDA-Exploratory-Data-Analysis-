@@ -1,6 +1,6 @@
 # EDA
 
-[Ste by step EDA process](https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis)
+[Step by step EDA process](https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis)<br/>
 [Data Cleaning](https://towardsdatascience.com/what-is-feature-engineering-importance-tools-and-techniques-for-machine-learning-2080b0269f10)
 
 <i>Exploratory Data Analysis (EDA) is the crucial process of using summary statistics and graphical representations to perform preliminary investigations on data to uncover patterns, detect anomalies, test hypotheses, and verify assumptions..</i>
